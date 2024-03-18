@@ -1,1 +1,4 @@
 Delot Camille
+
+Explication : Après avoir commit le fichier dans la branche mon_fichier, il n'apparaît plus dans la branche master
+
